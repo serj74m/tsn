@@ -1,9 +1,9 @@
-#EXTM3U 
-#EXTINF:-1 group-title="Ultra HD 4K",Ultra REX 4K UHD 
-http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIANEXTREMEULTRA_HLSUHD.m3u8 
-#EXTINF:-1 group-title="Ultra HD 4K",Eurosport 4K UHD 
-http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_EUROSPORT4K_HLSUHD.m3u8 
-#EXTINF:-1 group-title="Ultra HD 4K",LOVE NATURE 4K UHD 
+#EXTM3U
+#EXTINF:-1 group-title="Ultra HD 4K",Ultra REX 4K UHD
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIANEXTREMEULTRA_HLSUHD.m3u8
+#EXTINF:-1 group-title="Ultra HD 4K",Eurosport 4K UHD
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_EUROSPORT4K_HLSUHD.m3u8
+#EXTINF:-1 group-title="Ultra HD 4K",LOVE NATURE 4K UHD
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSUHD.m3u8 
 #EXTINF:-1 group-title="Ultra HD 4K",MINSK 4K 
 http://persik.by/stream/6606/411484/10605.m3u8 
