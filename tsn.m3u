@@ -1,118 +1,157 @@
-#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
-#EXTINF:-1 group-title="Кино",Остросюжетное HD
-http://188.35.9.26:14050/udp/238.0.14.3:69000
-#EXTINF:-1 group-title="Кино",Рен ТВ HD
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 group-title="Кино",Рен ТВ International
-http://sc.id-tv.kz/RenTV_36_37.m3u8
-#EXTINF: -1group-title="Кино",Кинозал Film TV
-http://195.9.195.3:8080/hls/165462.m3u8
-#EXTINF: -1group-title="Кино",ULTO
-http://ultotv.ru:8888/live/uhd/playlist.m3u8
-#EXTINF: -1group-title="Кино",ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
-#EXTINF: -1group-title="Кино",2x2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Дом Кино 17
-#EXTGRP:Кино
-https://iptvdom.my1.ru/load/0-0-1-264-20
-#EXTINF:-1,A2
-#EXTGRP:Кино
-http://sc.id-tv.kz/A2_34_35.m3u8
-#EXTINF:-1,Amedia Hit HD
-#EXTGRP:Кино
-http://sc.id-tv.kz:80/amedia_hit_hd_38_39.m3u8
-#EXTINF:-1,Bollywood HD
-#EXTGRP:Кино
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
-#EXTINF:-1,HD life
-#EXTGRP:Кино
-http://91.103.248.82:81/play/a00b
-#EXTINF:-1,Hollywood HD
-#EXTGRP:Кино
-https://plbl.m9.lfstrm.tv/amc/normal/1/index.m3u8
-#EXTINF:-1,KINO 24
-#EXTGRP:Кино
-http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
-#EXTINF:-1,Paramount Comedy
-#EXTGRP:Кино
-http://51.15.215.116:8081/tv/Paramount-Comedy/playlist.m3u8
-#EXTINF:-1,TVM Channel
-#EXTGRP:Кино
-http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1,U.HD
-#EXTGRP:Кино
-http://188.35.9.18:16050/udp/238.0.16.1:69000
-#EXTINF:-1,VRT.TV
-#EXTGRP:Кино
-http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/playlist.m3u8
-#EXTINF:-1,Shot TV
-#EXTGRP:Кино
-http://persik.by/stream/0264/420211/10454.m3u8
-#EXTINF:-1 group-title="Кино",Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 group-title="Кино",Звезда HD
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Кино",НСТ
-https://plbl.m9.lfstrm.tv/nctv/normal/1/index.m3u8
-#EXTINF:-1 group-title="Кино",НТВ
-http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
-#EXTINF:-1,FOX
-#EXTGRP:Кино
-http://persik.tv/stream/6299/10/10234.m3u8
-#EXTINF:-1,FOX HD
-#EXTGRP:Кино
-http://185.22.183.150:8085/media/hls_183_150/fox_hd/index.m3u8
-#EXTINF:-1,Fox Comedy HD
-#EXTGRP:Кино
-https://cdn1.mobiletv.bg/T14/ATV/fox_cryme/fox_cryme_ATV987654321.m3u8
-#EXTINF:-1,FOX Life
-#EXTGRP:Кино
-http://persik.tv/stream/6299/10/10455.m3u8
-#EXTINF:-1,FOX Life HD
-#EXTGRP:Кино
-http://83.172.32.25:8012/tv/foxlife
-#EXTINF:-1,Paramount Channel
-#EXTGRP:Кино
-http://91.234.24.5:8080/paramount_channel/mono.m3u8
-#EXTINF:-1,Paramount Comedy
-#EXTGRP:Кино
-http://77.89.204.107:8000/play/a04f/index.m3u8
-#EXTINF:-1,Paramount Comedy HD
-#EXTGRP:Кино
-http://95.47.243.141:80/paramountcomedyhd/mono.m3u8
-#EXTINF:-1,Sony TV
-#EXTGRP:Кино
-http://181.209.95.107:8000/play/a00d/index.m3u8
-#EXTINF:-1,Sony TV HD
-#EXTGRP:Кино
-http://181.209.95.107:8000/play/a04h/index.m3u8
-#EXTINF:-1,Sony Sci-Fi
-#EXTGRP:Кино
-http://persik.tv/stream/6299/10/10449.m3u8
-#EXTINF:-1,Sony Turbo
-#EXTGRP:Кино
-http://persik.tv/stream/6299/10/10450.m3u8
-#EXTINF:-1,TLC
-#EXTGRP:Кино
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
-#EXTINF:-1,TLC HD
-#EXTGRP:Кино
-http://83.172.32.25:8012/tv/tlc
-#EXTINF:-1,TLC Russia
-#EXTGRP:Кино
-http://178.217.72.66:80/225.201.2.92/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV1000
-#EXTGRP:Кино
-http://persik.tv/stream/6299/10/10237.m3u8
-#EXTINF:-1,TV1000 HD
-#EXTGRP:Кино
-http://195.191.208.78:8080/tv1000hd/index.m3u8
-#EXTINF:-1,TV1000 Action
-#EXTGRP:Кино
-http://persik.tv/stream/6299/10/10238.m3u8
-#EXTINF:-1,TV1000 Русское кино
-#EXTGRP:Кино
+#EXTM3U
+#EXTINF: -1,Prime
+http://212.0.215.115:80/Prime/mpegts
+#EXTINF: -1,Prime HD
+http://212.0.215.115/PrimeHD/mpegts
+#EXTINF:0,Primul în Moldova
+https://video.a-tv.md/hls/tv.m3u8
+#EXTINF:0,НТВ Молдова
+http://93.115.137.166/hls/ntvm.m3u8
+#EXTINF: -1,Moldova 1
+http://212.0.215.115/Moldova1/mpegts
+#EXTINF: -1,Moldova 2
+http://212.0.215.115/Moldova2/mpegts
+#EXTINF: -1,Jurnal TV
+http://212.0.215.115/JurnalTV/mpegts
+#EXTINF: -1,Jurnal TV HD
+http://212.0.215.115/JurnalTVHD/mpegts
+#EXTINF: -1,Publika
+http://212.0.215.115:80/PublikaTV/mpegts
+#EXTINF: -1,Publika HD
+http://212.0.215.115/PublikaHD/mpegts
+#EXTINF: -1,Canal 3
+http://212.0.215.115/Canal3/mpegts
+#EXTINF: -1,Canal 3 HD
+http://212.0.215.115/Canal3HD/mpegts
+#EXTINF: -1,Canal 2
+http://212.0.215.115/Canal2/mpegts
+#EXTINF: -1,Canal 2 HD
+http://212.0.215.115/Canal2HD/mpegts
+#EXTINF: -1,RTR Moldova
+http://212.0.215.115/RTR/mpegts
+#EXTINF: -1,N4
+http://212.0.215.115/N4/mpegts
+#EXTINF: -1,Canal Regional
+http://212.0.215.115/Regional/mpegts
+#EXTINF: -1,Domasnii
+http://212.0.215.115/SET/mpegts
+#EXTINF: -1,TVC 21
+http://212.0.215.115/TVC21/mpegts
+#EXTINF: -1,STS Mega
+http://212.0.215.115/STS/mpegts
+#EXTINF:-1,ТНТ Exclusive 
+http://89.28.25.122/hls/tnt_md.m3u8
+#EXTINF: -1,Orhei TV
+http://212.0.215.115/OrheiTV/mpegts
+#EXTINF: -1,Televisiunea Centrala
+http://212.0.215.115/EuroTV/mpegts
+#EXTINF:-0,Drochia
+https://hls.drochia.tv/tv/web.m3u8
+#EXTINF: -1,Soroca tv
+http://212.0.215.115/SorTV/mpegts
+#EXTINF: -1,A tv gagauzia
+http://212.0.215.115/ATV/mpegts
+#EXTINF: -1,TV8
+http://212.0.215.115/TV8/mpegts
+#EXTINF: -1,ITV Moldova
+http://212.0.215.115/ITV/mpegts
+#EXTINF: -1,Agro TV
+http://212.0.215.115/AgroTV/mpegts
+#EXTINF:-1,btv
+http://178.168.90.137:8000/play/1024/index.m3u8
+#EXTINF: -1,GRT
+http://212.0.215.115/GRT/mpegts
+#EXTINF: -1,TV Prim
+http://212.0.215.115/TVPrim/index.m3u8
+#EXTINF: -1,Cimislia TV
+http://212.0.215.115/MediaTV/mpegts
+#EXTINF: -1,Studioul L
+http://212.0.215.115/StudioL/mpegts
+#EXTINF: -1,OrizontTV
+http://212.0.215.115/OrizontTV/mpegts
+#EXTINF: -1,Pro TV Chisinau
+http://212.0.215.115/ProTV/mpegts
+#EXTINF: -1,Kanal D
+http://212.0.215.115/KanalD/mpegts
+#EXTINF: -1,10 TV
+http://212.0.215.115/10TV/mpegts
+#EXTINF: -1,10 TV HD
+http://212.0.215.115/10TVHD/mpegts
+#EXTINF: -1,MBC
+http://212.0.215.115/MBC/mpegts
+#EXTINF: -1,MBC HD
+http://212.0.215.115/MBCHD/mpegts
+#EXTINF: -1,TV national
+http://212.0.215.115/National/mpegts
+#EXTINF: -1,România TV
+http://212.0.215.115/RomaniaTV/mpegts
+#EXTINF: -1,TVR
+http://212.0.215.115/TVR/index.m3u8
+#EXTINF: -1,TVR HD
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+#EXTINF: -1,TVR 1
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#EXTINF: -1,TVR 2
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTINF: -1,TVR 3
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+#EXTINF: -1,Minimax TV
+http://212.0.215.115/Minimax/mpegts
+#EXTINF:-1,TEZAUR FOLC 
+http://77.89.221.150/tezaur/index.m3u8
+#EXTINF:-1,Super Tv 
+http://91.235.165.77:8000/play/a001/index.m3u8
+#EXTINF: -1,Noroc TV
+http://212.0.215.115/NorocTV/mpegts
+#EXTINF: -1,Noroc TV HD
+http://212.0.215.115/NorocTVHD/mpegts
+#EXTINF: -1,Busuioc tv
+http://212.0.215.115/Busuioc/mpegts
+#EXTINF: -1,Etno TV
+http://212.0.215.115/EtnoTV/mpegts
+#EXTINF: -1,Favorit TV
+http://212.0.215.115/Favorit/mpegts
+#EXTINF: -1,Gurinel
+http://212.0.215.115/Gurinel/mpegts
+#EXTINF: -1,Taraf TV
+http://212.0.215.115/TarafTV/mpegts
+#EXTINF: -1,Zona M TV Moldova
+http://212.0.215.115/ZonaM/mpegts
+#EXTINF: -1,Ru TV Moldova
+http://212.0.215.115/RuTV/mpegts
+#EXTINF: -1,Gold tv
+http://212.0.215.115/GoldTV/mpegts
+#EXTINF: -1,UTV
+http://212.0.215.106/UTV/mpegts
+#EXTINF: -1,TV axial
+http://212.0.215.115/AxialTV/mpegts
+#EXTINF: -1,Setanta Sport 1
+http://212.0.215.115/Setanta/mpegts
+#EXTINF: -1,Sport1
+http://212.0.215.115/Sport1/mpegts
+#EXTINF: -1,Discowery
+http://212.0.215.115/Discovery/mpegts
+#EXTINF: -1,Кино ТВ
+http://212.0.215.115/KinoTV/mpegts
+#EXTINF: -1,TV1000
+http://212.0.215.115/TV1000/mpegts
+#EXTINF: -1,Киносемья
+http://212.0.215.115/KinoSemya/mpegts
+#EXTINF: -1,India TV
+http://212.0.215.115/IndiaTV/mpegts
+#EXTINF: -1,Sony Turbo
+http://212.0.215.115/SonyTurbo/mpegts
+#EXTINF: -1,Fox Life
+http://212.0.215.115/FoxLife/mpegts
+#EXTINF: -1,Fox
+http://212.0.215.115/Fox/mpegts
+#EXTINF: -1,Star Cinema
+http://212.0.215.115/StarCinema/mpegts
+#EXTINF: -1,FilmUaDrama
+http://212.0.215.115/FilmUaDrama/mpegts
+#EXTINF: -1,Soiuz
+http://212.0.215.115/Soiuz/index.m3u8
+
 http://persik.tv/stream/6299/10/10236.m3u8
 #EXTINF:-1,Звезда
 #EXTGRP:Кино
