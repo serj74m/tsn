@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0,ren-1
 http:\\dmitry-tv.my1.ru\his\itv_zabava\03\CH_RENTV-1.m3u8
+#EXTINF:0,ren
+http:\\dmitry-tv.my1.ru\his\itv_zabava\03\CH_RENTV.m3u8
 #EXTINF:-1 group-title="XXX",Big Tits Channel (21+) 
 http://cdn.adultiptv.net/bigtits.m3u8 
 #EXTINF:-1 group-title="XXX",Big Dick Channel (21+) 
@@ -23,5 +25,3 @@ https://www.ast.tv/stream/1/ultra.m3u8
 https://www.ast.tv/stream/2/ultra.m3u8 
 #EXTINF:-1 group-title="XXX",Shemale Tube TV 2 (21+) 
 http://www.ast.tv/stream/2/master.m3u8
-#EXTINF:-1 group-title="XXX
-https:\\www.ast.tv\stream\1\ultra.m3u8
